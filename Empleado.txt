@@ -1,0 +1,8 @@
+Empleado = {
+nombre:string, apellido:string, nss:number, fecha_nct:string, direccion:string, sexo:string ,salario:number,dn:number
+LUIS, LOPEZ, 12345678,12/09/1980, carrillompuerto, H,10000,5
+FERNADO, PEREZ,234324234,15-07-1977,Palchan,H,12000,2
+ESTHER, FERNANDEZ,234243322,11-03-1974,Colipa,M,18000,5
+PEDRO,CRUZ,456464444,22-01-1969,El nueve,H,16000,4
+FLOR, LOPEZ,3434424423,01-01-1972,PALCHAN,M,17000,2
+}
